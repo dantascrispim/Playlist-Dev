@@ -34,7 +34,7 @@ com essa playlist, são formas práticas e criativas de organizar músicas e tor
   Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/)
 
 🌐 Confira Meu Projeto: 
-  Você pode ver o projeto ao vivo aqui: 
+  Você pode ver o projeto ao vivo aqui: https://playlist-dev.vercel.app/
 
 📫 Como Me Encontrar: 
 
