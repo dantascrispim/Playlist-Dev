@@ -97,7 +97,7 @@ button {
 }
 
 @media (min-width: 601px) and (max-width: 1024px) {
-  .music-container {
-    body: 25%;
+   body{ 
+    width: 25%;
   }
 }
